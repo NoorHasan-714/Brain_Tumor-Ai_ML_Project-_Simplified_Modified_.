@@ -5,7 +5,8 @@ Libraries used in this Project
 2- Pandas
 3- sci_kit learn
 
-4- streamlit ( for deployment )
+( for deployment )
+4- streamlit 
 5- joblib
 
 Algorithms ued in this Simple Brain Tumor Project are:
