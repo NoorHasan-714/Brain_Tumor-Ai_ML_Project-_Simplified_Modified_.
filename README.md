@@ -1,4 +1,4 @@
-<img width="926" height="567" alt="image" src="https://github.com/user-attachments/assets/c6382344-374f-4f7b-a522-f8ba26b6e2c5" />**Simple Brain Tumor CLassification**
+**Simple Brain Tumor CLassification**
 
 This time i design this project simple not any long or any confusing algorithms.
 Just Two to Three simple algorithms used to design simple Ai/Ml project of a small level
@@ -9,8 +9,8 @@ Just Two to Three simple algorithms used to design simple Ai/Ml project of a sma
 3. Sci_kit learn
 
 **For Deployment**
-4. streamlit
-5. joblib
+1. streamlit
+2. joblib
 
 **Algorithms ued in this Simple Brain Tumor Project are:**
 1. Logistic Regression
